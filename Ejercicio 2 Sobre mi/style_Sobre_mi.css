@@ -1,0 +1,58 @@
+*{
+    background-color: rgb(10, 53, 133);
+}
+div{
+    border-radius: 20% 20% 20% 20%;
+    border: 5px;
+    padding: 200px;
+}
+h1{
+    color:rgb(213, 80, 138);
+    font-size: 150 px;
+    text-align: center;
+    font-family: "Fascinate Inline", system-ui;
+}
+.Imagen_marco_titulo{
+    width: 50px;
+    border-radius: 80% 80% 80% 80%;
+    border: 5px solid rgb(232, 107, 189);
+    margin: 10px;
+}
+p,ul{
+    color:beige
+}
+.Texto::first-letter{
+    font-size:xx-large;
+    color: rgb(176, 215, 237);
+    padding: 0px 0px 0px 10px;
+}
+
+h2{
+    color: rgb(233, 152, 122);
+    border-radius: 30%;
+    border: 1px solid rgb(252, 199, 208);
+    margin: 0px 20px 0px 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    border-radius: 60% 60% 60% 60%;
+    border: 10px solid rgb(232, 107, 189);
+    margin: 10px 120px ;
+}
+.URL_canciones,ol{
+    color: rgb(153, 241, 241);
+    font-family: "Playwrite CU", cursive;
+}
+.URL_canciones:hover{
+    color: bisque;
+}
+
+.Contacto{
+    width: 100px;
+    border-radius:50% 50% 50% 50%;
+    border: 5px solid rgb(104, 220, 243);
+    margin: 20px 20px ;
+}
