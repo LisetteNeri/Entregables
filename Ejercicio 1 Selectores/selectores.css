@@ -1,31 +1,24 @@
 Todos los elementos de la página 
 *{
     font-size: 16px;
-    font-family:Arial, Helvetica, sans-serif;
-}
+    font-family:Arial, Helvetica, sans-serif;}
 
 p{
-color: #555;
-}
+color: #555;}
 
 div#primero p{ 
-color: #369;
-}
-
-
+color: #369;}
 
 a{
-color: #C30;
-}
+color: #C30;}
 
 div#primero em{
 color: #0000BB;
-background-color: #FFFFCC;
-}
+background-color: #FFFFCC;}
+
 .especial{
 color: #FFFF00;
-background: #000000;
-}
+background: #000000;}
 
 .normal span{
-font-weight: bold;
+font-weight: bold;}
