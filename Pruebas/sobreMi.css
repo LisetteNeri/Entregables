@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to left bottom, #783ba4, #9d60b5, #bf86c8, #ddaddd, #f9d7f4);
+}
+#textnav{
+    color: #45065a;
+    font-size: 80px;
+    margin: 20px;
+    font-family: "Sofadi One", system-ui;
+}
+
+
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 80px;
+}
+.col{
+    background-color: #35063a;
+
+}
+
+p{
+    color: rgb(39, 3, 58);
+    text-align:justify;
+    font-size: 60px;
+}
+
+li,ol,.URL_canciones{
+    color: #aa79bd;
+    text-align: center;
+    font-size: 40px;
+}
+.URL_canciones:hover{
+    color: rgb(245, 163, 209);
+}
+
+#imgCar{
+    border-radius: 50%;
+}
+.Img-secundaria{
+    text-align: center;
+    border-radius: 40%;
+    margin: 0 250px;
+    padding: 0;
+}
+
+
