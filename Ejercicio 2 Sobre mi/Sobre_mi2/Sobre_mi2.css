@@ -1,0 +1,80 @@
+body{
+    
+    background-image: linear-gradient(to right top, #dd4083, #ac3181, #782878, #442067, #051650);
+    padding: 50px;
+}
+    
+
+#barra-nav{
+    background-color: rgb(83, 163, 229);
+    text-align: center;
+}
+
+.navbar{
+    padding: 10px;
+    margin: 100px;
+    height: 70px;
+    
+}
+#contenedor-nav{
+    text-align: center;
+    height: 700%;
+    width: 1000;
+    border: 10px solid #041d6d;
+    border-radius: 10px 10px;
+    background-image: linear-gradient(to right top, #c89fb1, #a27695, #78517c, #493066, #051650);
+}
+.navbar-brand{
+    color: rgb(250, 245, 245);
+    font-size: 40px;
+    
+}
+#elemento_nav{
+    color: rgb(246, 241, 241);
+    font-size: 25px;
+}
+
+#titulo{
+    margin: 300px auto 80px auto;
+    text-align: center;
+}
+strong{
+    
+    color: rgb(245, 245, 249);
+    text-align: center;
+    font-family: "Fascinate Inline", system-ui;
+    font-size: 100px;
+    margin: 500px;
+}
+#carrusel{
+    text-align: center; 
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+.col{
+    background-color: #78517c;
+
+}
+
+p,li,ol,.URL_canciones{
+    color: rgb(253, 184, 240);
+    text-align: center;
+    font-size: 40px;
+}
+.URL_canciones:hover{
+    color: antiquewhite;
+}
+
+
+
+.Img-secundaria{
+    text-align: center;
+    border-radius: 40%;
+    margin: 0 250px;
+    padding: 0;
+}
+

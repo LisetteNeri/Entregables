@@ -1,0 +1,58 @@
+body, html{
+background-color: black;
+}
+
+section{
+    background-image: linear-gradient(to top, #122f5c, #1b4a7f, #1f66a2, #1e85c7, #14a5eb);
+}
+#textnav{
+    color: #08217c;
+    font-size: 80px;
+    margin: 20px;
+    text-shadow: #1b4a7f ;
+}
+
+
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 80px;
+}
+.col{
+    background-image: radial-gradient(circle, #1587d3, #148bd8, #148fdd, #1293e2, #1197e7, #22a0ea, #31a8ed, #3fb1f0, #5ec0f0, #7ccef0, #9adbf1, #b8e8f4);
+
+}
+
+#cardextra{
+    background-color: #1293e2;
+}
+#textoCard, #tituloCard{
+    color: #08217c;
+    font-size: 45px;
+}
+p{
+    color: rgb(249, 247, 251);
+    text-align:justify;
+    font-size: 80px;
+}
+
+li,ol,.URL_canciones{
+    color: #0a0d54;
+    text-align: center;
+    font-size: 80px;
+}
+.URL_canciones:hover{
+    color: rgb(210, 216, 221);
+}
+
+#imgCar{
+    border-radius: 70%;
+}
+.Img-secundaria{
+    text-align: center;
+    border-radius: 40%;
+    margin: 0 250px;
+    padding: 0;
+}
+
+
